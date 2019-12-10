@@ -12,6 +12,8 @@ movie-this
 
 do-what-it-says
 
+# API Sources
+
 node liri.js concert-this '' - This will return upcoming concert information from Seatgeek.
 
 node liri.js spotify-this-song '' - This will return song information from Spotify.
@@ -20,7 +22,7 @@ node liri.js movie-this '' - This will return information about movies from OMDB
 
 node liri.js do-what-it-says - This will run a specific command that is stored in a text file.
 
-#HOW-TO-USE-LIRI-BOT
+# How To Use Liri Bot
 
 Open your terminal.
 
