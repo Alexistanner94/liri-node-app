@@ -34,6 +34,12 @@ Example 1: Run the node liri concert-this command, followed by the name of a spe
 
 Example 2: Run the node liri spotify-this-song command, followed by the name of specific song.
 
+![alt text](images/spotify-this-song.png "Description goes here")
+
 Example 3: Run the node liri movie-this command, followed by the specific name of a movie.
 
+![alt text](images/movie-this.png "Description goes here")
+
 Example 4: Run the node liri do-what-it-says command.
+
+![alt text](images/do-what-is-says.png "Description goes here")
