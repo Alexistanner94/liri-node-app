@@ -20,7 +20,7 @@ node liri.js movie-this '' - This will return information about movies from OMDB
 
 node liri.js do-what-it-says - This will run a specific command that is stored in a text file.
 
-HOW TO USE LIRI BOT
+#HOW-TO-USE-LIRI-BOT
 
 Open your terminal.
 
