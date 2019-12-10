@@ -1,5 +1,7 @@
 # liri-node-app
 
+Creator: Alexis Tanner
+
 LIRI BOT
 
 LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in information and gives back data. The user will have the option of using four commands (listed below) in conjuntion with specific parameters associated with the commands. The Commands are:
@@ -45,3 +47,5 @@ Example 3: Run the node liri movie-this command, followed by the specific name o
 Example 4: Run the node liri do-what-it-says command.
 
 ![alt text](images/do-what-it-says.png "Description goes here")
+
+https://github.com/Alexistanner94/liri-node-app.gitxa
