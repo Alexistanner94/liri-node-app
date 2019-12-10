@@ -30,6 +30,8 @@ Depending on the command you run, the output will vary.
 
 Example 1: Run the node liri concert-this command, followed by the name of a specific band or artist.
 
+![alt text](images/concert-this.png "Description goes here")
+
 Example 2: Run the node liri spotify-this-song command, followed by the name of specific song.
 
 Example 3: Run the node liri movie-this command, followed by the specific name of a movie.
