@@ -42,4 +42,4 @@ Example 3: Run the node liri movie-this command, followed by the specific name o
 
 Example 4: Run the node liri do-what-it-says command.
 
-![alt text](images/do-what-is-says.png "Description goes here")
+![alt text](images/do-what-it-says.png "Description goes here")
